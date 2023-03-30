@@ -1,7 +1,7 @@
 # ArmHand
 
-## Dataset download
-* Go to [[HERE](https://www.google.com)]
+## Dataset
+* Download: [[HERE](https://www.google.com)]
 </br>
 
 ### Directory
