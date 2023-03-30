@@ -13,8 +13,14 @@
 
 ## Hand Generator
 
+### No background
 <p align="middle">
-    <img src="assets/teaser.gif", width="640" height="480">
+    <img src="assets/nobg.gif", width="640" height="480">
+</p>
+
+### Background
+<p align="middle">
+    <img src="assets/bg.gif", width="640" height="480">
 </p>
 
 ### Download
