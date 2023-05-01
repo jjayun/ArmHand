@@ -1,4 +1,4 @@
-# ArmHand
+# WristHand
 
 ## Dataset
 * Download: [[HERE](https://www.google.com)]
