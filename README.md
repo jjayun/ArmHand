@@ -1,15 +1,17 @@
 # LightHand
 
 ## Dataset
+### Training set
 <p align="left">
-    <img src="assets/trainingset.png", width="480" height="480">
-</p>
-<p align="left">
-    <img src="assets/evaluationset.png", width="480" height="480">
+    <img src="assets/trainingset.png", style="width:1000px;height:200px">
 </p>
 
-### Download
-* Go to [[HERE](https://www.google.com)]
+### Evaluation set
+<p align="left">
+    <img src="assets/evaluationset.png", width="320" height="320">
+</p>
+
+### Download [[HERE](https://www.google.com)]
 </br>
 </br>
 
@@ -25,5 +27,4 @@
     <img src="assets/bg.gif", width="640" height="480">
 </p>
 
-### Download
-* Go to [[HERE](https://www.google.com)]
+### Download [[HERE](https://www.google.com)]
