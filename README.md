@@ -1,6 +1,14 @@
 # LightHand
 
 ## Dataset
+<p align="left">
+    <img src="assets/trainingset.png", width="480" height="480">
+</p>
+<p align="left">
+    <img src="assets/evaluationset.png", width="480" height="480">
+</p>
+
+### Download
 * Go to [[HERE](https://www.google.com)]
 </br>
 </br>
