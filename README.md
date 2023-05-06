@@ -11,7 +11,7 @@
 </br>
 </br>
 
-## Lightweight Data Generator
+## Generator
 
 ### No background
 <p align="left">
