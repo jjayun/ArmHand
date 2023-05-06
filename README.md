@@ -1,13 +1,7 @@
 # LightHand
 
 ## Dataset
-* Download: [[HERE](https://www.google.com)]
-</br>
-
-### Directory
-
-</br>
-
+* Go to [[HERE](https://www.google.com)]
 </br>
 </br>
 
