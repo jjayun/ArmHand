@@ -1,4 +1,4 @@
-# WristHand
+# LightHand
 
 ## Dataset
 * Download: [[HERE](https://www.google.com)]
@@ -11,7 +11,7 @@
 </br>
 </br>
 
-## Hand Generator
+## Lightweight Data Generator
 
 ### No background
 <p align="left">
