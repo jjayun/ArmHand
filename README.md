@@ -1,4 +1,4 @@
-# LightHand
+# LightHand99K
 
 ## Dataset
 ### Training set
@@ -17,7 +17,7 @@
 </br>
 </br>
 
-## Generator
+## LightHand
 
 ### No background
 <p align="left">
