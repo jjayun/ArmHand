@@ -21,14 +21,14 @@
 
 ## LightHand
 
-### No background
+### Randomize background OFF
 <p align="left">
     <img src="assets/nobg.gif", width="640" height="480">
 </p>
 
 </br>
 
-### Background
+### Randomized background ON
 <p align="left">
     <img src="assets/bg.gif", width="640" height="480">
 </p>
