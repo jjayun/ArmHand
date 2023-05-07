@@ -26,6 +26,8 @@
     <img src="assets/nobg.gif", width="640" height="480">
 </p>
 
+</br>
+
 ### Background
 <p align="left">
     <img src="assets/bg.gif", width="640" height="480">
