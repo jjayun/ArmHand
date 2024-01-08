@@ -1,4 +1,4 @@
-# LightHand99K
+# LightHand
 
 ## Dataset
 ### Training set
